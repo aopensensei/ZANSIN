@@ -117,7 +117,7 @@ As this page is a public page, it should be accessible to everyone.
   |----|----|
   |SSH| credential: `vendor`/`Passw0rd!23`|
   |MySQL| credential: `root` / `password`|
-  |HTTP| Game Page: http://{IP ADDRESS}<br>Admin Page: http://{IP ADDRESS}/user_liset/<br>User Ranking: http://{IP ADDRESS}/ranking/<br>phpMyAdmin: http://{IP ADDRESS}:5555|
+  |HTTP| Game Page: http://{IP ADDRESS}<br>Admin Page: http://{IP ADDRESS}/user_list/<br>User Ranking: http://{IP ADDRESS}/ranking/<br>phpMyAdmin: http://{IP ADDRESS}:5555|
 
 - Game API
   - You can fined the source code in the folloing path;
